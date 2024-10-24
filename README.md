@@ -23,15 +23,15 @@ The script provides output that varies based on whether the year is in the past,
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/Yearly-Robots-Prediction.git
+   git clone https://github.com/userabuser13/robospaghetti.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd Yearly-Robots-Prediction
+   cd robospaghetti
    ```
 3. Run the script using Python:
    ```bash
-   python your_script_name.py
+   python code.py
    ```
 4. Enter a year when prompted.
 
